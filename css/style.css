@@ -1,0 +1,11 @@
+form {
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3vh;
+	min-width: 300px;
+	margin-bottom: 3vh;
+}
+.inputs-invalid {
+	border-color: #ff0000;
+}
